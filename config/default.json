@@ -1,0 +1,4 @@
+{
+    "mongoDBConnection":"mongodb+srv://Nidhi2:BHVJ5QNbvaxUT1za@cluster0.hhid1.mongodb.net/projecthydra?retryWrites=true&w=majority",
+    "jwtsecret":"secret"
+}
